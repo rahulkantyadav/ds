@@ -1,5 +1,7 @@
 package main
 
+//https://leetcode.com/problems/two-sum/submissions/
+
 import (
 	"fmt"
 )
