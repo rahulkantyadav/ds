@@ -15,4 +15,9 @@ class Solution {
         }
         return count;
     }
+
+    public static void main(String[] args) {
+        int[] arr = {1,34,5,62,3,4,1,23};
+        new Solution().countElements(arr);
+    }
 }
