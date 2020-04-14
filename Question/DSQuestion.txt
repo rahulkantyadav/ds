@@ -1,0 +1,32 @@
+1. Remove half nodes from binary tree
+2. Clone a Binary Tree with Random Pointers. similar for double linked list.
+3. Is pair of given values present in BST or not?
+4. LCA in binary tree.
+5. Stream of words is coming.
+	remove duplicate.
+	check for anagram.
+6. longest palidromic substring.
+7. given two balanced BST. create merge balanced binary tree.
+8. Binary tree to DLL.
+9. Give all pair present in array. Duplicate can be present in it.
+10. find node at kth distance from node in B tree.
+11. find diameter of b tree.
+12. find length of path connecting two binary tree.
+13. Connect n ropes with minimum cost.
+14. There is a audio player given which picks up a random song from the playlist and plays it.The song should not be repeated until all songs are played atleast once.The sequence number of the songs are given in an array.Design such audio player without using any extra space. I suggested him to use a pointer say ‘pivot’ that initially points to the last element of array. The songs to the left of the array are not yet played and the songs to the right are already played and cannot be repeated.
+15. An array of strings is given in which some strings are anagrams of one another. You have to find those strings and store indexes of those strings in a vector. 	
+16. Print Boundary Traversal of a Given Binary Tree
+17. Median of two sorted arrays
+18. Maximum size square sub-matrix with all 1s.
+19. Given a sorted dictionary of an alien language, find order of characters
+20. Given list of coins with various values (unlimited coins of each type) , find how many ways you can make a given value. (DP was expected.)
+21. find diameter of binary tree.
+22.Given binary tree, connect all the nodes which are in same column.
+23. Inplace rotate square matrix by 90 degrees
+24. find-the-largest-subarray-with-0-sum
+25. kth-smallest-element-in-a-row-wise-and-column-wise-sorted-2d-array-set-1/
+26. find-smallest-number-whose-digits-multiply-given-number-n
+27. binary-tree-to-binary-search-tree-conversion
+28. next greater element
+29. Largest subarray with equal number of 0s and 1s - https://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/
+30. Perform String shifts - https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/
