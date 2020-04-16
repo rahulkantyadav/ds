@@ -30,3 +30,5 @@
 28. next greater element
 29. Largest subarray with equal number of 0s and 1s - https://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/
 30. Perform String shifts - https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/
+31. Valid Parenthesis String : Given a string containing only three types of characters: '(', ')' and '*', write a function to check whether this string is valid. We define the validity of a string by these rules:* can be anthing among '(', ')' or empty
+    https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/
