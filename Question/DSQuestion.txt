@@ -34,4 +34,6 @@
     https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/
 32. https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/ 
     https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3304/
-
+33. Construct Binary Search Tree from Preorder Traversal
+    https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversal-set-2/?ref=rp
+34. https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/
